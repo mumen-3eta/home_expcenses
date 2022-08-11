@@ -3,9 +3,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:home_expcenses/data_repo/iconList.dart';
 import 'package:home_expcenses/helper/category_db_provider.dart';
 import 'package:home_expcenses/helper/expenses_db_provider.dart';
-import 'package:home_expcenses/helper/navHelper.dart';
 import 'package:home_expcenses/models/expensesModel.dart';
-import 'package:home_expcenses/views/screens/homePage.dart';
 import 'package:home_expcenses/views/widgets/selectExpensesListWidget.dart';
 import 'package:provider/provider.dart';
 

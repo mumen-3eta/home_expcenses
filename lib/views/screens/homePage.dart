@@ -7,7 +7,6 @@ import 'package:home_expcenses/helper/expenses_db_provider.dart';
 import 'package:home_expcenses/helper/navHelper.dart';
 import 'package:home_expcenses/views/screens/addExpencePage.dart';
 import 'package:home_expcenses/views/screens/catagoryPage.dart';
-import 'package:home_expcenses/views/screens/chartPage.dart';
 import 'package:home_expcenses/views/screens/settingPage.dart';
 import 'package:home_expcenses/views/widgets/dayExpencesWidget.dart';
 import 'package:provider/provider.dart';

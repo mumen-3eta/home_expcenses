@@ -4,7 +4,6 @@ import 'package:home_expcenses/data_repo/iconList.dart';
 import 'package:home_expcenses/helper/category_db_provider.dart';
 import 'package:home_expcenses/helper/navHelper.dart';
 import 'package:home_expcenses/models/categoryModel.dart';
-import 'package:home_expcenses/views/screens/addCategoryPage.dart';
 import 'package:home_expcenses/views/screens/editCategoryPage.dart';
 import 'package:provider/provider.dart';
 

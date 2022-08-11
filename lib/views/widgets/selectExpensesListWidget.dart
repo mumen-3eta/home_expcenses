@@ -3,7 +3,6 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:home_expcenses/data_repo/iconList.dart';
 import 'package:home_expcenses/helper/category_db_provider.dart';
 import 'package:home_expcenses/models/categoryModel.dart';
-import 'package:home_expcenses/models/expensesModel.dart';
 import 'package:provider/provider.dart';
 
 class SelectExpensesWidget extends StatelessWidget {
