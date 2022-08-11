@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:home_expcenses/models/iconModel.dart';
 
-List<IconModel> icons = [
+final List<IconModel> icons = [
   IconModel(
       id: 0,
       path: 'assets/icons/envelope.svg',
